@@ -1,0 +1,6 @@
+{
+  "name": "AgencyOS — Agency Management Platform",
+  "description": "A modern, full-stack agency management workspace for projects, CRM leads, tasks, clients, team workflows, and business performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
